@@ -77,3 +77,240 @@
 [22-03 20:18][DEBUG][NOTICE] at C:\xampp\htdocs\mayco-php-debugger\src\errorHandler.php(36)
 [22-03 20:18][DEBUG][NOTICE] at C:\xampp\htdocs\mayco-php-debugger\example\index.php(13)
 
+
+     log
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(4)
+
+
+     warnung
+[22-03 19:42][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(5)
+
+
+     error
+[22-03 19:42][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(6)
+
+
+     zeit   TIME: 07:42:56
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(8)
+
+
+     Array
+     (
+         [0] => Array
+             (
+                 [file] => /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php
+                 [line] => 9
+                 [function] => trace
+                 [class] => Debugg
+                 [type] => ::
+                 [args] => Array
+                     (
+                     )
+     
+             )
+     
+     )
+     
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(9)
+
+
+     START TIMER          -> : 10
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(10)
+
+
+      ˅    TIME: 0.004    -> : 11
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(11)
+
+
+      ˅    TIME: 0        -> : 12
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(12)
+
+
+     END   TIMER 0   FullTime: 0.015
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:42][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(13)
+
+
+     log
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(4)
+
+
+     warnung
+[22-03 19:43][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(5)
+
+
+     error
+[22-03 19:43][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(6)
+
+
+     zeit   TIME: 07:43:41
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(8)
+
+
+     Array
+     (
+         [0] => Array
+             (
+                 [file] => /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php
+                 [line] => 9
+                 [function] => trace
+                 [class] => Debugg
+                 [type] => ::
+                 [args] => Array
+                     (
+                     )
+     
+             )
+     
+     )
+     
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(9)
+
+
+     START TIMER          -> : 10
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(10)
+
+
+      ˅    TIME: 0        -> : 11
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(11)
+
+
+      ˅    TIME: 0        -> : 12
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(12)
+
+
+     END   TIMER 0   FullTime: 0.001
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:43][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(13)
+
+
+     log
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(4)
+
+
+     warnung
+[22-03 19:45][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][WARN] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(5)
+
+
+     error
+[22-03 19:45][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][ERROR] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(6)
+
+
+     zeit   TIME: 07:45:35
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(8)
+
+
+     Array
+     (
+         [0] => Array
+             (
+                 [file] => /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php
+                 [line] => 9
+                 [function] => trace
+                 [class] => Debugg
+                 [type] => ::
+                 [args] => Array
+                     (
+                     )
+     
+             )
+     
+     )
+     
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(9)
+
+
+     START TIMER          -> : 10
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(10)
+
+
+      ˅    TIME: 0        -> : 11
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(11)
+
+
+      ˅    TIME: 0        -> : 12
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(12)
+
+
+     END   TIMER 0   FullTime: 0.001
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(14)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(10)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/src/errorHandler.php(36)
+[22-03 19:45][DEBUG][NOTICE] at /Applications/MAMP/htdocs/mayco-php-debugger/example/index.php(13)
+

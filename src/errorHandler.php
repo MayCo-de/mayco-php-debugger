@@ -1,7 +1,7 @@
 <?php 
 
     ini_set( 'log_errors', 1 );
-    ini_set( 'error_log', $_SERVER["DOCUMENT_ROOT"] . S_DEBUGGER_CONFIG -> paths -> error_log . "PHP_error_log.log"  );
+    ini_set( 'error_log', $_SERVER["DOCUMENT_ROOT"]."/mayco-php-debugger/PHP_error_log.log"  );
 
 
     class ErrorHandler {
