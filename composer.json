@@ -1,0 +1,18 @@
+{
+    "name": "mayco/php-debugger",
+    "description": "This is the official MayCo debugger for your PHP projects.",
+    "type": "debugger",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mayco\\PhpDebugger\\": "main.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "MArius MAy & Colin Grahm",
+            "email": "122671813+CGWebDev2003@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
