@@ -1,6 +1,7 @@
 {
     "name": "mayco/php-debugger",
     "description": "This is the official MayCo debugger for your PHP projects.",
+    "version": "1.0.0",
     "type": "debugger",
     "license": "MIT",
     "autoload": {
