@@ -4,7 +4,7 @@
     "version": "1.0.15",
     "type": "debugger",
     "license": "MIT",
-    "minimum-stability": "1.0.15",
+    "minimum-stability": "beta",
     "autoload": {
         "psr-4": {
             "Mayco\\PhpDebugger\\": "main.php"
