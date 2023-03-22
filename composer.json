@@ -1,10 +1,10 @@
 {
     "name": "mayco/php-debugger",
     "description": "This is the official MayCo debugger for your PHP projects.",
-    "version": "1.0.0",
+    "version": "1.0.15",
     "type": "debugger",
     "license": "MIT",
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "1.0.15",
     "autoload": {
         "psr-4": {
             "Mayco\\PhpDebugger\\": "main.php"
@@ -12,7 +12,7 @@
     },
     "authors": [
         {
-            "name": "Marius MAy & Colin Grahm",
+            "name": "Marius MAy and Colin Grahm",
             "email": "122671813+CGWebDev2003@users.noreply.github.com"
         }
     ],
